@@ -1,0 +1,19 @@
+{
+    "User": {
+        "Name": "Chloe",
+        "Password": "1+x",
+        "Accounts": [
+            {
+                "Type": "Current account",
+                "Overdraft limit": 100,
+                "Balance": 1000
+            },
+            {
+                "Type": "Saving account",
+                "Interest rate": 2.99,
+                "Balance": 4000
+            }
+        ],
+        "Address": "99 Queens Road"
+    }
+}
