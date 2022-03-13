@@ -1,0 +1,14 @@
+{
+    "User": {
+        "Name": "Boris",
+        "Password": "ABC",
+        "Accounts": [
+            {
+                "Type": "Current account",
+                "Overdraft limit": 100,
+                "Balance": 1000
+            }
+        ],
+        "Address": "10 London Road"
+    }
+}
